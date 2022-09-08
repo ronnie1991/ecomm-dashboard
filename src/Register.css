@@ -1,0 +1,10 @@
+label{
+    font-size: 24px;
+}
+form{
+    border: 2px #e1bfb3;
+    border-style: solid;
+    padding: 9px;
+    box-shadow: 1px 0px 10px 0px #d4af37;
+    margin-top: 15px;
+}
